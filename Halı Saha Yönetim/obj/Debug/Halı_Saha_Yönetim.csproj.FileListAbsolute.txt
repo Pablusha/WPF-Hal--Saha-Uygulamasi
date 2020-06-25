@@ -1,0 +1,54 @@
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe.config
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.pdb
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.dll
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.xml
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.g.cs
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\App.g.cs
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_Content.g.cs
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.cache
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.lref
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\MainWindow.baml
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.g.resources
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.Properties.Resources.resources
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.csproj.GenerateResource.cache
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.csproj.CoreCompileInputs.cache
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.csproj.CopyComplete
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.exe
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.pdb
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.csprojAssemblyReference.cache
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.g.cs
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAdd.g.cs
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.g.cs
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.baml
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAdd.baml
+C:\Users\KARTAL\Desktop\Hali-Saha-Yonetim-master\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.baml
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe.config
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.exe
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\bin\Debug\Halı Saha Yönetim.pdb
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\bin\Debug\EntityFramework.dll
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\bin\Debug\EntityFramework.xml
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.csprojAssemblyReference.cache
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.g.cs
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\MainWindow.g.cs
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAdd.g.cs
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.g.cs
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\App.g.cs
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_Content.g.cs
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.cache
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim_MarkupCompile.lref
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationShow.baml
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\MainWindow.baml
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\PageScreens\ReservationAdd.baml
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\PageScreens\Settings.baml
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.g.resources
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.Properties.Resources.resources
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.csproj.GenerateResource.cache
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.csproj.CoreCompileInputs.cache
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\Halı_Saha_Yönetim.csproj.CopyComplete
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.exe
+C:\Users\KARTAL\Desktop\HalıSahaYönetim\Halı Saha Yönetim\obj\Debug\Halı Saha Yönetim.pdb
